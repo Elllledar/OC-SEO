@@ -123,6 +123,15 @@ img {
 	padding-bottom: 100%;
 
 }
+
+.carousel-control-prev {
+	color: black !important;
+}
+
+.carousel-control-next {
+	color: black !important;
+}
+
 .gallery-item {
 	position: absolute;
 	width: 100%;
